@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "type": "Smartphone",
+      "name": "Apple iPhone 13 Pro",
+      "price": 999.99,
+      "image": "/iphone15.jpg",
+      "description": "The latest iPhone with advanced features and stunning design.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "type": "Laptop",
+      "name": "Dell XPS 13",
+      "price": 1499.99,
+      "image": "/dellxps.png",
+      "description": "A premium laptop with powerful performance and a sleek display.",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "type": "Tablet",
+      "name": "Samsung Galaxy Tab S7",
+      "price": 799.99,
+      "image": "/samsung.png",
+      "description": "An Android tablet with a high-resolution display and S Pen support.",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "type": "Smartwatch",
+      "name": "Apple Watch Series 7",
+      "price": 399.99,
+      "image": "/applewatch.png",
+      "description": "The latest Apple Watch with advanced health tracking features.",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "type": "Camera",
+      "name": "Canon EOS R5 Mirrorless Camera",
+      "price": 3499.99,
+      "image": "/canon.png",
+      "description": "A professional-grade mirrorless camera with 8K video recording capabilities.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "type": "Headphones",
+      "name": "Bose QuietComfort 45 Headphones",
+      "price": 329.99,
+      "image": "/headphones.png",
+      "description": "Premium noise-canceling headphones with exceptional sound quality.",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "type": "Monitor",
+      "name": "LG UltraGear 27GN950-B Gaming Monitor",
+      "price": 1299.99,
+      "image": "/lg.png",
+      "description": "A high-performance gaming monitor with 4K resolution and HDR support.",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "type": "Printer",
+      "name": "Epson EcoTank ET-2760 Wireless Printer",
+      "price": 399.99,
+      "image": "/epson.jpeg",
+      "description": "An eco-friendly printer with cartridge-free printing and wireless connectivity.",
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "type": "Router",
+      "name": "NETGEAR Nighthawk AX12 Tri-Band Router",
+      "price": 299.99,
+      "image": "/netgear.png",
+      "description": "A high-speed Wi-Fi 6 router with advanced security features.",
+      "rating": 4.2
+    },
+    {
+      "id": 10,
+      "type": "Gaming Console",
+      "name": "PlayStation 5 Console",
+      "price": 499.99,
+      "image": "/ps5.jpeg",
+      "description": "The latest gaming console from Sony with powerful hardware and immersive gaming experiences.",
+      "rating": 4.9
+    }
+  ]
+  

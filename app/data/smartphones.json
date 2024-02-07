@@ -1,0 +1,33 @@
+[
+      {
+        "name": "Apple iPhone 13 Pro Max",
+        "price": 1099,
+        "description": "The iPhone 13 Pro Max features a stunning Super Retina XDR display, A15 Bionic chip, Pro camera system with 12MP telephoto, wide, and ultra-wide lenses, and ProMotion technology for a smooth user experience.",
+        "rating": 4.8,
+        "id": "APPL001",
+        "image": "https://example.com/iphone13promax.jpg"
+      },
+      {
+        "name": "Samsung Galaxy S21 Ultra",
+        "price": 1199,
+        "description": "The Galaxy S21 Ultra boasts a Dynamic AMOLED 2X display, Exynos 2100/Snapdragon 888 chipset, quad-camera setup with a 108MP main sensor, S Pen support, and 5,000mAh battery.",
+        "rating": 4.7,
+        "id": "SAMS001",
+        "image": "https://example.com/galaxys21ultra.jpg"
+      },
+      {
+        "name": "Apple iPhone 12",
+        "price": 799,
+        "description": "The iPhone 12 features a sleek design with Ceramic Shield front cover, A14 Bionic chip, dual-camera system with Night mode, and 5G capability for fast download speeds.",
+        "rating": 4.6,
+        "id": "APPL002",
+        "image": "https://example.com/iphone12.jpg"
+      },
+      {
+        "name": "Samsung Galaxy Z Fold 3",
+        "price": 1799,
+        "description": "The Galaxy Z Fold 3 is a foldable phone with a 7.6-inch AMOLED display, Snapdragon 888 chipset, triple-camera setup, S Pen support, and IPX8 water resistance.",
+        "rating": 4.5,
+        "id": "SAMS002",
+        "image": "https://example.com/galaxyzfold3.jpg"
+      }] 

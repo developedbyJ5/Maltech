@@ -1,0 +1,48 @@
+
+ [
+      {
+        "id": 11,
+        "type": "laptop",
+        "name": "Dell XPS 13",
+        "description": "The Dell XPS 13 is a powerful ultrabook with a sleek design, stunning display, and long battery life.",
+        "image": "https://example.com/dell_xps_13.jpg",
+        "rating": 4.7,
+        "price": 999.99
+      },
+      {
+        "id": 12,
+        "type": "laptop",
+        "name": "MacBook Pro 16-inch",
+        "description": "The MacBook Pro 16-inch is a high-performance laptop with a large Retina display, advanced cooling system, and immersive speakers.",
+        "image": "https://example.com/macbook_pro_16.jpg",
+        "rating": 4.8,
+        "price": 2399.99
+      },
+      {
+        "id": 13,
+        "type": "laptop",
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "description": "The Lenovo ThinkPad X1 Carbon is a durable business laptop with a lightweight carbon-fiber chassis, excellent keyboard, and long battery life.",
+        "image": "https://example.com/thinkpad_x1_carbon.jpg",
+        "rating": 4.6,
+        "price": 1499.99
+      },
+      {
+        "id": 14,
+        "type": "laptop",
+        "name": "Microsoft Surface Laptop 4",
+        "description": "The Microsoft Surface Laptop 4 is a versatile ultrabook with a premium build, vibrant PixelSense display, and smooth performance.",
+        "image": "https://example.com/surface_laptop_4.jpg",
+        "rating": 4.5,
+        "price": 1299.99
+      },
+      {
+        "id": 15,
+        "type": "laptop",
+        "name": "HP Spectre x360",
+        "description": "The HP Spectre x360 is a convertible laptop with a stylish design, powerful performance, and long battery life, perfect for both work and entertainment.",
+        "image": "https://example.com/spectre_x360.jpg",
+        "rating": 4.6,
+        "price": 1299
+        } ]
+  

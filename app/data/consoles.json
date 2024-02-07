@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "PlayStation 5",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The PlayStation 5 is the latest gaming console from Sony, featuring powerful hardware and an immersive gaming experience.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Xbox Series X",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The Xbox Series X is Microsoft's next-generation gaming console, offering high performance and a wide range of games.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Nintendo Switch",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The Nintendo Switch is a versatile gaming console that can be used both as a handheld device and connected to a TV for console gaming.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "PlayStation 4 Pro",
+      "price": 399.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The PlayStation 4 Pro is an upgraded version of the PlayStation 4, offering enhanced graphics and performance for gaming enthusiasts.",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Xbox One X",
+      "price": 399.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The Xbox One X is a powerful gaming console with 4K gaming capabilities and a large library of games.",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Nintendo Switch Lite",
+      "price": 199.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The Nintendo Switch Lite is a compact and lightweight version of the Nintendo Switch, designed for handheld gaming.",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "PlayStation 4 Slim",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The PlayStation 4 Slim is a sleek and compact version of the PlayStation 4, perfect for casual gamers.",
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Xbox One S",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/500x300",
+      "description": "The Xbox One S is a slim and stylish gaming console with 4K video streaming capabilities and a vast library of games.",
+      "rating": 4.4
+    }
+  ]
+  

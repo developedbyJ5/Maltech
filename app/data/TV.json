@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung QLED Q90T",
+      "description": "Experience stunning picture quality and vivid colors with the Samsung QLED Q90T. Featuring Quantum Dot technology and Object Tracking Sound, this TV delivers an immersive viewing experience.",
+      "price": 1999.99,
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 2,
+      "name": "LG OLED CX",
+      "description": "The LG OLED CX offers unparalleled contrast and deep blacks thanks to its OLED display technology. With support for Dolby Vision and Dolby Atmos, it provides a cinematic viewing experience.",
+      "price": 2299.99,
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 3,
+      "name": "Sony Bravia A8H",
+      "description": "Experience lifelike images and rich colors with the Sony Bravia A8H OLED TV. Featuring Acoustic Surface Audio, this TV delivers sound that matches the picture quality.",
+      "price": 2499.99,
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 4,
+      "name": "TCL 6-Series",
+      "description": "The TCL 6-Series combines stunning 4K picture performance with Dolby Vision HDR and QLED technology. With Roku TV built-in, you can easily stream your favorite content.",
+      "price": 899.99,
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 5,
+      "name": "Hisense H9G",
+      "description": "The Hisense H9G features Quantum Dot technology and Full Array Local Dimming for precise contrast and vibrant colors. With Android TV built-in, you have access to a wide range of apps and content.",
+      "price": 999.99,
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 6,
+      "name": "Vizio P-Series Quantum",
+      "description": "The Vizio P-Series Quantum offers impressive 4K picture quality with Quantum Dot technology and Active Full Array backlight. With SmartCast, you can stream your favorite content from popular apps.",
+      "price": 1299.99,
+      "rating": 4.3,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Crystal UHD TU-8000",
+      "description": "The Samsung Crystal UHD TU-8000 features Crystal Display technology for lifelike colors and clarity. With a sleek design and multiple smart features, it enhances your viewing experience.",
+      "price": 799.99,
+      "rating": 4.2,
+      "image": "https://via.placeholder.com/500x300"
+    },
+    {
+      "id": 8,
+      "name": "Sony X800H",
+      "description": "The Sony X800H offers 4K HDR picture quality with X1 4K HDR Processor and Triluminos Display. With Android TV and Google Assistant built-in, you can easily access your favorite content and control your smart home devices.",
+      "price": 1199.99,
+      "rating": 4.1,
+      "image": "https://via.placeholder.com/500x300"
+    }
+  ]
+  
