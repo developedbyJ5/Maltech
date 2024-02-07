@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import HeaderMain from "./components/HeaderMain";
 import Home from "./components/Home";
-import TechItemsMenu from "./components/Products";
+import ProductsPage from "./components/products/page";
 import Combobox from "./components/Combobox";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -23,7 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <HeaderMain/>
         <Home/>
-        <Combobox/>
+        <ProductsPage/>
         
         {children}
         </body>
